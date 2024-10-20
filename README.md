@@ -77,7 +77,8 @@
                 <img width="12" />
                 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/>
             </td>
-            <td style="padding:5px">
+            
+   <td style="padding:5px">
                 <h3>Other Tools</h3>
                 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
                 <img width="12" />
