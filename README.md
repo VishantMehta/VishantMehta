@@ -1,3 +1,7 @@
+  
+<p>
+<img src="https://komarev.com/ghpvc/?username=VishantMehta&label=Profile%20views&color=58befe&style=flat"  alt="VishantMehta" />
+</p>
 <h1 align="center">Hello! I'm Vishant</h1>
 <h3 align="center">Software Developer</h3>
 
@@ -11,10 +15,6 @@
 - You can contact me at [vishantmehta0@gmail.com](mailto:vishantmehta0@gmail.com)
   &nbsp;
   &nbsp;
-  
-<p>
-<img src="https://komarev.com/ghpvc/?username=VishantMehta&label=Profile%20views&color=58befe&style=flat"  alt="VishantMehta" />
-</p>
 
 ## Connect with me:
 
